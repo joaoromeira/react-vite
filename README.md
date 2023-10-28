@@ -1,5 +1,18 @@
-# Clean Architecture
+# React Vite
 
-In this project I use the React library to demonstrate a clean architecture
+## Commands
 
-Refactor need (auth, dashboard, pendency, stage, user)
+```bash
+# run dev server
+yarn dev
+```
+
+```bash
+# run prod server
+yarn dev
+```
+
+```bash
+# run lint
+yarn lint
+```

@@ -2,6 +2,10 @@
   "name": "react-vite",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "João Vinícius",
+    "email": "vi.peres@icloud.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
